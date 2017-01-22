@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.ttce.cn	TRUE	/	FALSE		3CDD1F07BF8E120B	WbNpBoOXK31yGnFK1UY7OmM/wJAvwEQl/CqqI2vaUWFkFX8EVXoYxwtGg7Zm0uVv9PfqnMpFUsWFhODlhE6RH1/Qn2/42/EEZj8V0MbrLUqNqzsbjNzG/EPseqV7FnkboeKzIDw2AcBdwy8nSW9rxd2lk66G1ceqpzkt2kO9J4JLxmaK3ngZ7lrBzBG7hi3RM4EzNHVmnyKJk1EWHuHXrNsmV05KBT59T6cmupPf5goESQC2v2LNTEQXaiKERpv5/XcCmlKDXGb3ubf4vmVTdA3/w+prQqVvy4IiGm8zpnNM3fSz+jSY7/jqwbwVE8Dm3rPPDTp7u7vXGb7BvASTx1RelQyUtdEax7A2nlH6Yx86NvLwMDhIvF7tXpW2KMv+
+.ttce.cn	TRUE	/	FALSE		3CDD1F07BF8E120C	ow9pzKwF2Aw=

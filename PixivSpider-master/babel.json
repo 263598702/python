@@ -1,0 +1,14 @@
+{
+	"url": "https://www.pixiv.net/login.php",
+	"data": {
+		"pixiv_id": "263598702@qq.com",
+		"pass": "guoxiaofeng",
+		"mode": "login",
+		"skip": 1
+	},
+	"header": {
+		"accept-language": "zh-cn,zh;q=0.8",
+		"referer": "https://www.pixiv.net/login.php?return_to=0",
+		"user-agent": "mozilla/5.0 (windows nt 10.0; win64; x64; rv:45.0) gecko/20100101 firefox/45.0"
+	}
+}
